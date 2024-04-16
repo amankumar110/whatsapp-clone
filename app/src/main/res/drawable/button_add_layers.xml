@@ -1,0 +1,7 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Background image (replace "background_image" with your actual image resource) -->
+    <item android:drawable="@drawable/button_add"/>
+
+    <!-- Shape background -->
+    <item android:drawable="@drawable/add"/>
+</layer-list>
